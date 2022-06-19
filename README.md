@@ -1,2 +1,2 @@
 # Kickstarter-Analysis
-## An Analysis of Louise's Campaign.
+## Performing An Analysis on Kickstarter data to uncover trends for Louise's upcoming Campaign.
